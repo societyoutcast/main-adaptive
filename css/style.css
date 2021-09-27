@@ -642,7 +642,7 @@ margin-right: -17px;
 
 
 .topnav2 {
-   margin-top: 15px;
+   margin-top: 10px;
   background: #efeeee;
   box-shadow: 0px 12px 24px rgba(126, 120, 120, 0.25);
   backdrop-filter: blur(150px);
@@ -932,7 +932,6 @@ body {
   font-weight: 300;
   font-size: 18px;
   line-height: 0px;
-
   background: #FFFFFF;
   
 }
